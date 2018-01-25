@@ -1,5 +1,7 @@
 package com.example.userlh.coolweather.db;
 
+import android.util.Log;
+
 import org.litepal.crud.DataSupport;
 
 /**
